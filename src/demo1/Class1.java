@@ -16,5 +16,8 @@ public class Class1 {
 	public void test2(){
 		Assert.assertTrue(1==2);
 	}
-
+	 @Test
+	public void test3(){
+		Assert.assertTrue(1==3);
+	}
 }
